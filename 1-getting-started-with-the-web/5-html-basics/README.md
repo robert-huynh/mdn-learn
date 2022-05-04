@@ -2,8 +2,7 @@
 
 ## So what is HTML?
 
-- Element
-  - Can make a word, image hyperlink, italicize words, and so on.
+- Element => Can make a word, image hyperlink, italicize words, and so on.
 
 ### Anatomy of an HTML element
 

@@ -33,5 +33,5 @@
 ## Setting the primary language
 
 - `<html lang="en">`
-- ![Reference](https://www.w3.org/International/articles/language-tags/)
+- [Reference](https://www.w3.org/International/articles/language-tags/)
 - Setting the primary language helps screen reader to read correctly.
